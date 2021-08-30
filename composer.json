@@ -1,5 +1,5 @@
 {
-    "name": "millancore/illuminate-schedule",
+    "name": "mdcoderu/illuminate-schedule",
     "type": "project",
     "description": "Use laravel Schedule in non-Laravel applications",
     "keywords": [
