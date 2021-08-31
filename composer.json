@@ -10,10 +10,10 @@
     ],
     "license": "MIT",
     "require": {
-        "illuminate/console": "^5",
-        "illuminate/events": "^5",
-        "illuminate/cache": "^5",
-        "illuminate/filesystem": "^5",
+        "illuminate/console": "^6",
+        "illuminate/events": "^6",
+        "illuminate/cache": "^6",
+        "illuminate/filesystem": "^6",
         "dragonmantank/cron-expression": "^2.0"
     },
     "autoload": {
