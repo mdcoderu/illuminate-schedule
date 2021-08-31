@@ -12,8 +12,6 @@
     "require": {
         "illuminate/console": "^5",
         "illuminate/events": "^5",
-        "illuminate/cache": "^5",
-        "illuminate/filesystem": "^5",
         "dragonmantank/cron-expression": "^2.0"
     },
     "autoload": {
